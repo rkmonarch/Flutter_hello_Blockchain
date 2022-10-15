@@ -1,18 +1,21 @@
-# hello_world Flutter + Blockchain
+# Flutter + Blockchain + Ganache
 
-A new Flutter project.
+A simple beginner friendly **Hello World** project in Flutter with solidity contract and tested on Ganache. 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application and blockchain.
+Create a simple hellp world Flutter application with the help of below docs. A few resources to get you started in making your first Flutter project:
 
-A few resources to get you started if this is your first Flutter project:
+- [Lab: Write your first Flutter App](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful flutter samples](https://docs.flutter.dev/cookbook)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+For getting started with Flutter development, explore the [online documentation](https://docs.flutter.dev/) for more reference.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Install the required application/tools to integrate blockchain and test it on Ganache.
+> [Solidity](https://docs.soliditylang.org/en/v0.8.16/installing-solidity.html)
 
+> [Ganache](https://trufflesuite.com/ganache/)
 
+Contribute small contract to your first Flutter dApp.
+
+Copyrights © 2022 Rahul Kulkarni.
