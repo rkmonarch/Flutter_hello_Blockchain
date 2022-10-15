@@ -4,7 +4,7 @@ A simple beginner friendly **Hello World** project in Flutter with solidity cont
 
 ## Getting Started
 
-Create a simple hell0 world Flutter application with the help of below docs. A few resources to get you started in making your first Flutter project:
+Create a simple hello world Flutter application with the help of below docs. A few resources to get you started in making your first Flutter project:
 
 - [Lab: Write your first Flutter App](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful flutter samples](https://docs.flutter.dev/cookbook)
