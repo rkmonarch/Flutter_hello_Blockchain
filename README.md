@@ -11,6 +11,40 @@ Create a simple hello world Flutter application with the help of below docs. A f
 
 For getting started with Flutter development, explore the [online documentation](https://docs.flutter.dev/) for more reference.
 
+## How to use
+
+**Step 1:**
+
+Download or clone this repo by using the link below:
+
+```
+https://github.com/SystangoTechnologies/RN-Boilerplate.git
+```
+
+**Step 2:**
+
+Go to project root and execute the following command in console to get the required dependencies: 
+
+```
+flutter pub get 
+```
+
+**Step 3:**
+
+**For iOS only:**
+
+```
+cd ios && pod install
+```
+
+**Step 4:**
+
+To run the app on device or simulator, execute the following command.
+
+```
+flutter run -d <deviceId>
+```
+
 Install the required application/tools to integrate blockchain and test it on Ganache.
 > [Solidity](https://docs.soliditylang.org/en/v0.8.16/installing-solidity.html)
 
