@@ -18,7 +18,7 @@ For getting started with Flutter development, explore the [online documentation]
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/SystangoTechnologies/RN-Boilerplate.git
+https://github.com/rkmonarch/Flutter_hello_Blockchain
 ```
 
 **Step 2:**
